@@ -1,3 +1,8 @@
-# Project Presentation
-Google Slides Link:
-PASTE YOUR GOOGLE SLIDES LINK HERE
+# MASAI PRESENTATION OF REPORT AND PROJECT
+
+Google Slides Link: https://docs.google.com/presentation/d/1XV0YbaTuwb6nNuNLUHFmDnRqgvBnVJUpWzMf9sMJdWw/edit?usp=sharing
+
+PRESENTATION INFO: 
+
+TITLE: IMPACT OF ADOPTION OF AI ON SALES PERFORMANCE: A MARKET TREND ANALYSIS
+NO OF SLIDES: 10
