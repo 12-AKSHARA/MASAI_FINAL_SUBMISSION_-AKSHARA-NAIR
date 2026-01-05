@@ -1,4 +1,4 @@
-# MASAI PRESENTATION OF REPORT AND PROJECT
+# MASAI PRESENTATION PPT
 
 Google Slides Link: https://docs.google.com/presentation/d/1XV0YbaTuwb6nNuNLUHFmDnRqgvBnVJUpWzMf9sMJdWw/edit?usp=sharing
 
