@@ -5,7 +5,7 @@ Google Docs Link: https://docs.google.com/document/d/16yvEluXa5LD7btZBqeT2aeFxx9
 ## REPORT INFO: 
 
 NO OF PAGES: 3
-SOFTWARE USED: GOOGLE SLIDES 
+SOFTWARE USED: GOOGLE DOCS
 
 
 
