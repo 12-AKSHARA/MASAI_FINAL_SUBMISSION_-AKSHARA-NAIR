@@ -2,7 +2,6 @@
 
 Google Slides Link: https://docs.google.com/presentation/d/1XV0YbaTuwb6nNuNLUHFmDnRqgvBnVJUpWzMf9sMJdWw/edit?usp=sharing
 
-
 ## TITLE
 IMPACT OF ADOPTION OF AI ON SALES PERFORMANCE: A MARKET TREND ANALYSIS
 
